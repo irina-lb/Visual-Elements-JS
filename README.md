@@ -10,6 +10,9 @@ Cool visual elements for web design, using HTML, CSS and Vanilla JavaScript.
 ## Slider
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/73307960/122039123-9fa4b880-cdd6-11eb-877b-d4cdc00f3a1d.gif)
 
+## Hover board
+![hover](https://user-images.githubusercontent.com/73307960/122191568-26b76680-ce93-11eb-8f3e-58fa5e841cbe.gif)
+
 
 
 
